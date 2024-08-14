@@ -1,0 +1,25 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: white;
+}
+
+.hero-section{
+ background-image: url("heroBg2.avif");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 45rem;
+}
+
+.slide-show{
+  height: 24rem;
+}
+
+.heading-featured-products{
+  font-family: "Space Grotesk", sans-serif;
+}
